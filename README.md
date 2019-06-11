@@ -2,6 +2,7 @@
 # Blockchain Visualizer FX
 
 The application is built using JavaFX including blockchain concepts. The motive of this application is to help people learning **Blockchain Technology** while visualizing the internal working of the blockchain in simplest way possible.
+
 The model is motivated from <i> [https://blockchaintrainingalliance.com/pages/lab-blocks](https://blockchaintrainingalliance.com/pages/lab-blocks)<i> which provides a web application of Blockchain's internal working.
 
 ## Key Points
